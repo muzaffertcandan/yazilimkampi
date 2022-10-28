@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\muzom\\source\\repos\\Kamp1\\ClassAmazon\\ClassAmazon.csproj": {}
+    "C:\\Users\\muzom\\Desktop\\yazilimkampi\\Kamp1\\ClassAmazon\\ClassAmazon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\muzom\\source\\repos\\Kamp1\\ClassAmazon\\ClassAmazon.csproj": {
+    "C:\\Users\\muzom\\Desktop\\yazilimkampi\\Kamp1\\ClassAmazon\\ClassAmazon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\muzom\\source\\repos\\Kamp1\\ClassAmazon\\ClassAmazon.csproj",
+        "projectUniqueName": "C:\\Users\\muzom\\Desktop\\yazilimkampi\\Kamp1\\ClassAmazon\\ClassAmazon.csproj",
         "projectName": "ClassAmazon",
-        "projectPath": "C:\\Users\\muzom\\source\\repos\\Kamp1\\ClassAmazon\\ClassAmazon.csproj",
+        "projectPath": "C:\\Users\\muzom\\Desktop\\yazilimkampi\\Kamp1\\ClassAmazon\\ClassAmazon.csproj",
         "packagesPath": "C:\\Users\\muzom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\muzom\\source\\repos\\Kamp1\\ClassAmazon\\obj\\",
+        "outputPath": "C:\\Users\\muzom\\Desktop\\yazilimkampi\\Kamp1\\ClassAmazon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\muzom\\AppData\\Roaming\\NuGet\\NuGet.Config",

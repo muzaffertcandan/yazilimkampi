@@ -1,0 +1,16 @@
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\DegerVeReferansTipler\bin\Debug\net5.0\DegerVeReferansTipler.exe
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\DegerVeReferansTipler\bin\Debug\net5.0\DegerVeReferansTipler.deps.json
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\DegerVeReferansTipler\bin\Debug\net5.0\DegerVeReferansTipler.runtimeconfig.json
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\DegerVeReferansTipler\bin\Debug\net5.0\DegerVeReferansTipler.runtimeconfig.dev.json
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\DegerVeReferansTipler\bin\Debug\net5.0\DegerVeReferansTipler.dll
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\DegerVeReferansTipler\bin\Debug\net5.0\DegerVeReferansTipler.pdb
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\DegerVeReferansTipler\obj\Debug\net5.0\DegerVeReferansTipler.csproj.AssemblyReference.cache
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\DegerVeReferansTipler\obj\Debug\net5.0\DegerVeReferansTipler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\DegerVeReferansTipler\obj\Debug\net5.0\DegerVeReferansTipler.AssemblyInfoInputs.cache
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\DegerVeReferansTipler\obj\Debug\net5.0\DegerVeReferansTipler.AssemblyInfo.cs
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\DegerVeReferansTipler\obj\Debug\net5.0\DegerVeReferansTipler.csproj.CoreCompileInputs.cache
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\DegerVeReferansTipler\obj\Debug\net5.0\DegerVeReferansTipler.dll
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\DegerVeReferansTipler\obj\Debug\net5.0\refint\DegerVeReferansTipler.dll
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\DegerVeReferansTipler\obj\Debug\net5.0\DegerVeReferansTipler.pdb
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\DegerVeReferansTipler\obj\Debug\net5.0\DegerVeReferansTipler.genruntimeconfig.cache
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\DegerVeReferansTipler\obj\Debug\net5.0\ref\DegerVeReferansTipler.dll

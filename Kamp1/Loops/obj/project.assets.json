@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\muzom\\source\\repos\\Kamp1\\Loops\\Loops.csproj",
+      "projectUniqueName": "C:\\Users\\muzom\\Desktop\\yazilimkampi\\Kamp1\\Loops\\Loops.csproj",
       "projectName": "Loops",
-      "projectPath": "C:\\Users\\muzom\\source\\repos\\Kamp1\\Loops\\Loops.csproj",
+      "projectPath": "C:\\Users\\muzom\\Desktop\\yazilimkampi\\Kamp1\\Loops\\Loops.csproj",
       "packagesPath": "C:\\Users\\muzom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\muzom\\source\\repos\\Kamp1\\Loops\\obj\\",
+      "outputPath": "C:\\Users\\muzom\\Desktop\\yazilimkampi\\Kamp1\\Loops\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\muzom\\AppData\\Roaming\\NuGet\\NuGet.Config",

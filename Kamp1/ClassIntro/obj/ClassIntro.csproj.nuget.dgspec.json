@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\muzom\\source\\repos\\Kamp1\\ClassIntro\\ClassIntro.csproj": {}
+    "C:\\Users\\muzom\\Desktop\\yazilimkampi\\Kamp1\\ClassIntro\\ClassIntro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\muzom\\source\\repos\\Kamp1\\ClassIntro\\ClassIntro.csproj": {
+    "C:\\Users\\muzom\\Desktop\\yazilimkampi\\Kamp1\\ClassIntro\\ClassIntro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\muzom\\source\\repos\\Kamp1\\ClassIntro\\ClassIntro.csproj",
+        "projectUniqueName": "C:\\Users\\muzom\\Desktop\\yazilimkampi\\Kamp1\\ClassIntro\\ClassIntro.csproj",
         "projectName": "ClassIntro",
-        "projectPath": "C:\\Users\\muzom\\source\\repos\\Kamp1\\ClassIntro\\ClassIntro.csproj",
+        "projectPath": "C:\\Users\\muzom\\Desktop\\yazilimkampi\\Kamp1\\ClassIntro\\ClassIntro.csproj",
         "packagesPath": "C:\\Users\\muzom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\muzom\\source\\repos\\Kamp1\\ClassIntro\\obj\\",
+        "outputPath": "C:\\Users\\muzom\\Desktop\\yazilimkampi\\Kamp1\\ClassIntro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\muzom\\AppData\\Roaming\\NuGet\\NuGet.Config",
