@@ -1,0 +1,16 @@
+C:\Users\muzom\Desktop\yazilimkampi\odevler22-28\Methods\Methods\bin\Debug\net5.0\Methods.exe
+C:\Users\muzom\Desktop\yazilimkampi\odevler22-28\Methods\Methods\bin\Debug\net5.0\Methods.deps.json
+C:\Users\muzom\Desktop\yazilimkampi\odevler22-28\Methods\Methods\bin\Debug\net5.0\Methods.runtimeconfig.json
+C:\Users\muzom\Desktop\yazilimkampi\odevler22-28\Methods\Methods\bin\Debug\net5.0\Methods.runtimeconfig.dev.json
+C:\Users\muzom\Desktop\yazilimkampi\odevler22-28\Methods\Methods\bin\Debug\net5.0\Methods.dll
+C:\Users\muzom\Desktop\yazilimkampi\odevler22-28\Methods\Methods\bin\Debug\net5.0\Methods.pdb
+C:\Users\muzom\Desktop\yazilimkampi\odevler22-28\Methods\Methods\obj\Debug\net5.0\Methods.csproj.AssemblyReference.cache
+C:\Users\muzom\Desktop\yazilimkampi\odevler22-28\Methods\Methods\obj\Debug\net5.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muzom\Desktop\yazilimkampi\odevler22-28\Methods\Methods\obj\Debug\net5.0\Methods.AssemblyInfoInputs.cache
+C:\Users\muzom\Desktop\yazilimkampi\odevler22-28\Methods\Methods\obj\Debug\net5.0\Methods.AssemblyInfo.cs
+C:\Users\muzom\Desktop\yazilimkampi\odevler22-28\Methods\Methods\obj\Debug\net5.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\muzom\Desktop\yazilimkampi\odevler22-28\Methods\Methods\obj\Debug\net5.0\Methods.dll
+C:\Users\muzom\Desktop\yazilimkampi\odevler22-28\Methods\Methods\obj\Debug\net5.0\refint\Methods.dll
+C:\Users\muzom\Desktop\yazilimkampi\odevler22-28\Methods\Methods\obj\Debug\net5.0\Methods.pdb
+C:\Users\muzom\Desktop\yazilimkampi\odevler22-28\Methods\Methods\obj\Debug\net5.0\Methods.genruntimeconfig.cache
+C:\Users\muzom\Desktop\yazilimkampi\odevler22-28\Methods\Methods\obj\Debug\net5.0\ref\Methods.dll
