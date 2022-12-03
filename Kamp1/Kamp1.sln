@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{C64CC3F1-DE79-4AAA-9D87-2D6DF7F747BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferanceTypesOdev", "ReferanceTypesOdev\ReferanceTypesOdev.csproj", "{04F3A2BD-D992-426D-8B78-9D7881EE5E21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{C64CC3F1-DE79-4AAA-9D87-2D6DF7F747BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C64CC3F1-DE79-4AAA-9D87-2D6DF7F747BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C64CC3F1-DE79-4AAA-9D87-2D6DF7F747BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04F3A2BD-D992-426D-8B78-9D7881EE5E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F3A2BD-D992-426D-8B78-9D7881EE5E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F3A2BD-D992-426D-8B78-9D7881EE5E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F3A2BD-D992-426D-8B78-9D7881EE5E21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

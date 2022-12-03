@@ -1,0 +1,16 @@
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\ReferanceTypesOdev\bin\Debug\net5.0\ReferanceTypesOdev.exe
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\ReferanceTypesOdev\bin\Debug\net5.0\ReferanceTypesOdev.deps.json
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\ReferanceTypesOdev\bin\Debug\net5.0\ReferanceTypesOdev.runtimeconfig.json
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\ReferanceTypesOdev\bin\Debug\net5.0\ReferanceTypesOdev.runtimeconfig.dev.json
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\ReferanceTypesOdev\bin\Debug\net5.0\ReferanceTypesOdev.dll
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\ReferanceTypesOdev\bin\Debug\net5.0\ReferanceTypesOdev.pdb
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\ReferanceTypesOdev\obj\Debug\net5.0\ReferanceTypesOdev.csproj.AssemblyReference.cache
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\ReferanceTypesOdev\obj\Debug\net5.0\ReferanceTypesOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\ReferanceTypesOdev\obj\Debug\net5.0\ReferanceTypesOdev.AssemblyInfoInputs.cache
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\ReferanceTypesOdev\obj\Debug\net5.0\ReferanceTypesOdev.AssemblyInfo.cs
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\ReferanceTypesOdev\obj\Debug\net5.0\ReferanceTypesOdev.csproj.CoreCompileInputs.cache
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\ReferanceTypesOdev\obj\Debug\net5.0\ReferanceTypesOdev.dll
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\ReferanceTypesOdev\obj\Debug\net5.0\refint\ReferanceTypesOdev.dll
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\ReferanceTypesOdev\obj\Debug\net5.0\ReferanceTypesOdev.pdb
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\ReferanceTypesOdev\obj\Debug\net5.0\ReferanceTypesOdev.genruntimeconfig.cache
+C:\Users\muzom\Desktop\yazilimkampi\Kamp1\ReferanceTypesOdev\obj\Debug\net5.0\ref\ReferanceTypesOdev.dll
